@@ -49,7 +49,17 @@ position: absolute;
     }
     p {
         padding-left: 40%;
-        font-size: 30px;
+        font-size: 40px;
         font-family: Jura;
+        padding-bottom: 40%;
     }
+}
+
+.matplita img {
+    width: 100vw;
+}
+.cpu{
+    background: url(Group\ 3.png);
+    background-size: 100%;
+    height: 100vh;
 }
